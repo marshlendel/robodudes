@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/robodudes/static/css/main.11b8b6c3.css",
+    "main.js": "/robodudes/static/js/main.e2558958.js",
+    "static/media/SEGA.woff": "/robodudes/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/robodudes/index.html",
+    "main.11b8b6c3.css.map": "/robodudes/static/css/main.11b8b6c3.css.map",
+    "main.e2558958.js.map": "/robodudes/static/js/main.e2558958.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11b8b6c3.css",
+    "static/js/main.e2558958.js"
+  ]
+}
